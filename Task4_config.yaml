@@ -1,0 +1,11 @@
+folder_in: /home/user2/tst
+folder_out: /home/user2/out
+folder_ext: /home/user2/folder1
+folder_ext2: /home/user2/folder2
+count: 5
+bs: 1M
+type: zip
+ip: 0.0.0.0
+user: user2
+password: 1111
+valid: Everything is Ok
