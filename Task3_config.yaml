@@ -1,0 +1,8 @@
+folder_in: /home/user/tst
+folder_out: /home/user/out
+folder_ext: /home/user/folder1
+folder_ext2: /home/user/folder2
+count: 5
+bs: 1M
+type: zip
+arc_type: zip
